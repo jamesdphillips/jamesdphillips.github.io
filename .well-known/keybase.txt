@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jamesdphillips
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.jphillips.ca
+  * I am jamesdphillips (https://keybase.io/jamesdphillips) on keybase.
+  * I have a public key ASC4cLbVH4hTKRDR0puW6zXDVYWOTPO8KWfPrHRKT_x-UQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b870b6d51f88532910d1d29b96eb35c355858e4cf3bc2967cfac744a4ffc7e510a",
+            "host": "keybase.io",
+            "kid": "0120b870b6d51f88532910d1d29b96eb35c355858e4cf3bc2967cfac744a4ffc7e510a",
+            "uid": "8a1292347807280abfb6ccd72f022c19",
+            "username": "jamesdphillips"
+        },
+        "service": {
+            "hostname": "www.jphillips.ca",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1477252313,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1477252222,
+        "hash":
+"d159c4de08d39bc1f198175944828cc92464ff79f6c2df94130d35310e607613ed908fcee04060b3fb2d5c77a1f5870b19b51995558e4380ffb30167df46ccf4",
+        "seqno": 686358
+    },
+    "prev": "ad45ffd42ded2cabb2eec92181b257da4e10bf84256c7d4a17090bfc7565832b",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguHC21R+IUykQ0dKblus1w1WFjkzzvClnz6x0Sk/8flEKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjg3MGI2ZDUxZjg4NTMyOTEwZDFkMjliOTZlYjM1YzM1NTg1OGU0Y2YzYmMyOTY3Y2ZhYzc0NGE0ZmZjN2U1MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjg3MGI2ZDUxZjg4NTMyOTEwZDFkMjliOTZlYjM1YzM1NTg1OGU0Y2YzYmMyOTY3Y2ZhYzc0NGE0ZmZjN2U1MTBhIiwidWlkIjoiOGExMjkyMzQ3ODA3MjgwYWJmYjZjY2Q3MmYwMjJjMTkiLCJ1c2VybmFtZSI6ImphbWVzZHBoaWxsaXBzIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuanBoaWxsaXBzLmNhIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3NzI1MjMxMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDc3MjUyMjIyLCJoYXNoIjoiZDE1OWM0ZGUwOGQzOWJjMWYxOTgxNzU5NDQ4MjhjYzkyNDY0ZmY3OWY2YzJkZjk0MTMwZDM1MzEwZTYwNzYxM2VkOTA4ZmNlZTA0MDYwYjNmYjJkNWM3N2ExZjU4NzBiMTliNTE5OTU1NThlNDM4MGZmYjMwMTY3ZGY0NmNjZjQiLCJzZXFubyI6Njg2MzU4fSwicHJldiI6ImFkNDVmZmQ0MmRlZDJjYWJiMmVlYzkyMTgxYjI1N2RhNGUxMGJmODQyNTZjN2Q0YTE3MDkwYmZjNzU2NTgzMmIiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAp1zg8NTPmbTzdnuQmCgzjdBzwVvn7XA0CdzccV9okoyKuAuotQu+7gVs5hVLoTUS0jB5aIPYviZz+/qi2OtELqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgUt6w/w6CrKOBdacXOJcd1Jf1yALjocgkS1I2VgVrjnmjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamesdphillips
+
+==================================================================
